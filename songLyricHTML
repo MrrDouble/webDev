@@ -1,10 +1,9 @@
 <html>
 <head>
-<title> Miles Mooavi - Song Lyrics </title>
+<title> Miles Moosavi - Song Lyrics </title>
 <link rel="stylesheet" href="slCSS.css">
 <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
 </head>
-
 <body>
 <img src="slHeader.png" class= "headerC">
 
@@ -12,7 +11,7 @@
 
 <div class="songAuthor"> Post Malone & Swae Lee </div> <br>
 
-<iframe width="640	" height="360" src="https://www.youtube.com/watch?v=ApXoWvfEYVU" align="right"> </iframe>
+<!--Video needs to go here-->
 
 <div class="lyrics"> <b> [Intro: Swae Lee] </b><br>
 Ayy, ayy, ayy, ayy (Ooh) <br>
@@ -59,6 +58,13 @@ You're the sunflower, I think your love would be too much <br>
 Or you'll be left in the dust, unless I stuck by ya <br>
 You're the sunflower, you're the sunflower, yeah<br>
 </div>
+
+<div class="videoElement">
+<video width="640" height="360" controls>
+  <source src="Sunflower.mp4" type="video/mp4">
+</video>
+</div>
+
 <br>
 </body>
 </html>
