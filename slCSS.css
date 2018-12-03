@@ -1,4 +1,4 @@
-   .headerC {
+ .headerC {
 	display: block;
     margin-left: auto;
 	margin-right: auto;
@@ -11,7 +11,7 @@ body {
 	margin: 0 auto;
 }
 .songName {
-	font-family: 'Sunflower', sans-serif;
+	font-family: 'Space Mono', monospace;
 	color: white;
 	font-size: 52;
 }
@@ -21,7 +21,7 @@ body {
 	font-size: 24;
 }
 .lyrics {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Sunflower', sans-serif;
 	color: white;
 	font-size: 20;
 	padding: 5px;
